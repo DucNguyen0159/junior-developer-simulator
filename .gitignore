@@ -1,0 +1,6 @@
+.env
+*.pem
+*.sql
+node_modules/
+__pycache__/
+.venv/
